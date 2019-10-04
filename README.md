@@ -1,2 +1,1 @@
-Hacktober-Fest DTU
-vikas yadav
+Hacktober-Fest DTU repository
